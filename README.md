@@ -15,7 +15,7 @@ import { multiply } from 'react-native-cloud-based-text-recognition';
 
 // ...
 
-const result = await multiply(3, 7);
+const result = await recognize(String url, final Promise promise)
 ```
 
 ## Contributing
