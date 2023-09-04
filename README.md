@@ -11,7 +11,7 @@ npm install react-native-cloud-based-text-recognition
 ## Usage
 
 ```js
-import { multiply } from 'react-native-cloud-based-text-recognition';
+import { recognize } from 'react-native-cloud-based-text-recognition';
 
 // ...
 
